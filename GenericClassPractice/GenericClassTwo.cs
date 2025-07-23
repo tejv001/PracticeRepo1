@@ -2,5 +2,5 @@
 
 public class GenericClassTwo<T>
 {
-	public T Field1;//comment
+	public T Field1;//comment n
 }
