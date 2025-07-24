@@ -14,7 +14,7 @@ class Program
         string greeting1 = greetObj1.GreetMethod("Hello");
         Console.WriteLine(greeting1);
 
-        //ListClass listObj1 = new ListClass();
+        //ListClass listObj1 = new ListClass(); comment was changed
         List<int> list1 = new List<int>();
         for (int i = 5; i <= 10; i++)
         {
